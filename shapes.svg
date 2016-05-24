@@ -1,0 +1,55 @@
+<p id="p121">
+    <svg id="svgb-5" viewBox="0, 0, 800, 400" class="graph-100-10-rw">
+        <g transform="scale(0.5) translate(0,0)">
+            <svg height="400" id="svgb-14" width="400" x="0" y="0">
+                <polygon fill="rgba(0, 255, 0, 0.5)" points="200,50 350,300 50,300" stroke="black" stroke-width="4"></polygon>
+                <text fill="black" font-family="Arial, Helvetica, sans-serif" font-size="36" font-weight="normal" text-anchor="middle" x="200" y="390">polygon (as triangle)</text>
+            </svg>
+        </g>
+        <g transform="scale(0.5) translate(400,0)">
+            <svg height="400" id="svgb-15" width="400" x="0" y="0">
+                <rect fill="rgba(255, 0, 0, 0.5)" height="200" stroke="black" stroke-width="4" width="300" x="50" y="100"></rect>
+                <text fill="black" font-family="Arial, Helvetica, sans-serif" font-size="36" font-weight="normal" text-anchor="middle" x="200" y="390">rect</text>
+            </svg>
+        </g>
+        <g transform="scale(0.5) translate(800,0)">
+            <svg height="400" id="svgb-16" width="400" x="0" y="0">
+                <circle cx="200" cy="200" fill="rgba(0, 0, 255, 0.5)" r="150" stroke="black" stroke-width="4"></circle>
+                <text fill="black" font-family="Arial, Helvetica, sans-serif" font-size="36" font-weight="normal" text-anchor="middle" x="200" y="390">circle</text>
+            </svg>
+        </g>
+        <g transform="scale(0.5) translate(1200,0)">
+            <svg height="400" id="svgb-17" width="400" x="0" y="0">
+                <ellipse cx="200" cy="200" fill="rgba(255, 255, 0, 0.5)" rx="190" ry="140" stroke="black" stroke-width="4"></ellipse>
+                <text fill="black" font-family="Arial, Helvetica, sans-serif" font-size="36" font-weight="normal" text-anchor="middle" x="200" y="390">ellipsis</text>
+            </svg>
+        </g>
+        <g transform="scale(0.5) translate(0,400)">
+            <svg height="400" id="svgb-18" width="400" x="0" y="0">
+                <line stroke="black" stroke-width="4" x1="50" x2="350" y1="100" y2="100"></line>
+                <line stroke="black" stroke-width="6" x1="50" x2="350" y1="200" y2="200"></line>
+                <line stroke="black" stroke-width="8" x1="50" x2="350" y1="300" y2="300"></line>
+                <text fill="black" font-family="Arial, Helvetica, sans-serif" font-size="36" font-weight="normal" text-anchor="middle" x="200" y="390">line</text>
+            </svg>
+        </g>
+        <g transform="scale(0.5) translate(400,400)">
+            <svg height="400" id="svgb-19" width="400" x="0" y="0">
+                <polyline fill="none" points="50,50 350,50 350,350 50,350     50,100 300,100 300,300 100,300     100,150 250,150 250,250 150, 250" stroke="black" stroke-width="4"></polyline>
+                <text fill="black" font-family="Arial, Helvetica, sans-serif" font-size="36" font-weight="normal" text-anchor="middle" x="200" y="390">polyline</text>
+            </svg>
+        </g>
+        <g transform="scale(0.5) translate(800,400)"> {C} 
+            <svg height="400" id="svgb-20" width="400" x="0" y="0">
+                <polygon fill="rgba(0, 255, 255, 0.5)" points="250,75  358,137.5 358,262.5 250,325 142,262.6 142,137.5" stroke="black" stroke-width="4"></polygon>
+                <text fill="black" font-family="Arial, Helvetica, sans-serif" font-size="36" font-weight="normal" text-anchor="middle" x="200" y="390">polygon (as Hexagon)</text>
+            </svg>
+        </g>
+        <g transform="scale(0.5) translate(1200,400)"> {C} 
+            <svg height="400" id="svgb-21" width="400" x="0" y="0">
+                <path d="M 360 180     A 160 160, 0, 1, 0, 360 200" fill="none" stroke="orange" stroke-width="6"></path>
+                <text fill="black" font-family="Arial, Helvetica, sans-serif" font-size="36" font-weight="normal" text-anchor="middle" x="200" y="390">path</text>
+            </svg>
+        </g>
+    </svg>
+</p>
+         

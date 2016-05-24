@@ -1,0 +1,20 @@
+<svg height="400mm" viewBox="0 0 400mm 400mm" width="400mm">
+    <defs>
+        <pattern id="grid20" width="20mm" height="20mm" patternUnits="userSpaceOnUse">
+            <path d="M 20 0 L 0 0 0 20" fill="none" stroke="gray" stroke-width="1"></path>
+        </pattern>
+    </defs>
+    <rect fill="white" height="800mm" width="800mm" y="0"></rect>
+    <rect fill="url(#grid20)" height="800mm" width="800mm" y="0"></rect>
+    <g transform="translate(0,0) scale(1, 1)">
+        <line class="l1 s-black " x1="-200mm" x2="800mm" y1="200mm" y2="200mm"></line>
+        <line class="l1 s-black " stroke="black" x1="200mm" x2="200mm" y1="-200mm" y2="800mm"></line>
+    </g>
+    <g transform="translate(200mm, 200mm) scale(1,-1)">
+        <text class="t36 t-mid bold f-black" x="50mm" y="50mm">+ +</text>
+        <text class="t36 t-mid bold f-black" x="-50mm" y="50mm">- +</text>
+        <text class="t36 t-mid bold f-black" x="50mm" y="-50mm">+ -</text>
+        <text class="t36 t-mid bold f-black" x="-50mm" y="-50mm">- -</text>
+    </g>
+</svg>
+
